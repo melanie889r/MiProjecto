@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: bb6786f96e1d44eeb0cffad75a6c7b6f
+timeCreated: 1534170941
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/isOffScreen.cs
+  uploadId: 577104

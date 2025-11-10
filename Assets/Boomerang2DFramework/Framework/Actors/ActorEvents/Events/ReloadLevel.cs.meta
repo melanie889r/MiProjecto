@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b1b7aab24f984f6ea6de5b762d03ab47
+timeCreated: 1674065975
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/ReloadLevel.cs
+  uploadId: 577104

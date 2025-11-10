@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e47b1782aa67423fa6dfd4fc54d22181
+timeCreated: 1531517681
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/SpecificRayOffsetValueProperties.cs
+  uploadId: 577104

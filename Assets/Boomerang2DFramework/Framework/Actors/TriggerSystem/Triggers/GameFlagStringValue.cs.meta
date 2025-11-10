@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cf59c28b1afb436b9b05efdc86b4f481
+timeCreated: 1576635296
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/GameFlagStringValue.cs
+  uploadId: 577104

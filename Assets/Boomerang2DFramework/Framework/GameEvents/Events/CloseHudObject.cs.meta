@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2e8c0e1601d94413974e0bfe9d179f81
+timeCreated: 1560955776
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/CloseHudObject.cs
+  uploadId: 577104

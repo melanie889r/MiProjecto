@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c8cf657e161c47b2a47ea4a5dd888312
+timeCreated: 1577755865
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/SpriteShaders/ScreenWipe.shader
+  uploadId: 577104

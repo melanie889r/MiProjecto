@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f180dd5717034959881d72ab546ec0ae
+timeCreated: 1547081561
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Editor/BitmapFontEditor/BitmapFontEditor.cs
+  uploadId: 577104

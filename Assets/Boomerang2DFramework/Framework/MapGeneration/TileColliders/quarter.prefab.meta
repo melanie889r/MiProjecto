@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac14ab2f745b35e4e9d0eb24a68cd152
+timeCreated: 1491564725
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/quarter.prefab
+  uploadId: 577104

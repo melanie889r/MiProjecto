@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: abb4873100d148838a2ee7455542b55a
+timeCreated: 1533128084
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/FacingDirectionChanged.cs
+  uploadId: 577104

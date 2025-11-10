@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ecf981f278464572a474949bc1845b57
+timeCreated: 1541713109
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/SaveGameFlags.cs
+  uploadId: 577104

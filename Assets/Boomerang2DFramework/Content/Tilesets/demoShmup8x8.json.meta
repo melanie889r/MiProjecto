@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00597fe516d1ddf4c8b58cf4d88b79db
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Tilesets/demoShmup8x8.json
+  uploadId: 577104

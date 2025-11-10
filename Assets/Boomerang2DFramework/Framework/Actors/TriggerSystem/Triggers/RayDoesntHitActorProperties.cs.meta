@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0fd55f143bf74b919c3fb19a0abcf3ef
+timeCreated: 1542060096
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/RayDoesntHitActorProperties.cs
+  uploadId: 577104

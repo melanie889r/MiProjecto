@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c33b25dfe3ab04541a0ae5413ecbab1a
+timeCreated: 1506015327
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/States/SideViewFallProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1c8debf0546f4e62bab5ab7f4557db05
+timeCreated: 1560779538
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/ChangePosition.cs
+  uploadId: 577104

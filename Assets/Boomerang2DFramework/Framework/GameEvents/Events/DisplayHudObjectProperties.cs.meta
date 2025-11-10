@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5f7c8994da264361888e3ca712113471
+timeCreated: 1563480854
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/DisplayHudObjectProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c3681d3846a141d595b4f08020ef1a9f
+timeCreated: 1592878699
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/MapNormalLayerBehavior.cs
+  uploadId: 577104

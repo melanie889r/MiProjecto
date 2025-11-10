@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 848cf4aca4e2e2e4d88d19914450927c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/HudObjects/DialogBox.json
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d1b10ce2a020478cab870b82fafcfbf3
+timeCreated: 1527032132
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorFinderFilters/Filters/OverlapsActorCollider.cs
+  uploadId: 577104

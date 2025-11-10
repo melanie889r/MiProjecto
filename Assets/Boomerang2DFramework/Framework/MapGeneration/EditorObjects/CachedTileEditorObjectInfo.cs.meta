@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 407341bd1f5c4e2faa52cd4d29eb9ad8
+timeCreated: 1543993467
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/EditorObjects/CachedTileEditorObjectInfo.cs
+  uploadId: 577104

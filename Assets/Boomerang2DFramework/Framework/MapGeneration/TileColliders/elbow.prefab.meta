@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d980b599e2fa24a45bad8423ec3b33dd
+timeCreated: 1491561166
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/elbow.prefab
+  uploadId: 577104

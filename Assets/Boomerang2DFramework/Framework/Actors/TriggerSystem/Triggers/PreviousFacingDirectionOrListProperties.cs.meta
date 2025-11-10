@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cdc522d357be49b1ba1e0fcbd43d59a5
+timeCreated: 1533178101
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/PreviousFacingDirectionOrListProperties.cs
+  uploadId: 577104

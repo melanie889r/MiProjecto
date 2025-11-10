@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 50c5864b20814ea6a752099d8955ff4d
+timeCreated: 1559954210
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/UiManagement/TriggerSystem/Triggers/TimeDisplayedProperties.cs
+  uploadId: 577104

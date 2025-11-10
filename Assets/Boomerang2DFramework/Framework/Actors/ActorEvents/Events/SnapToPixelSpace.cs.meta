@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dcf4aa4151ac49f7a479201662e78f44
+timeCreated: 1607960745
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/SnapToPixelSpace.cs
+  uploadId: 577104

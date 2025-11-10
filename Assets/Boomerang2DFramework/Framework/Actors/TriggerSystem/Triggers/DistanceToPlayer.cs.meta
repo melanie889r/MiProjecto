@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 36eeeddedd1a4a1cbfb38a9adb21c1b3
+timeCreated: 1542070501
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/DistanceToPlayer.cs
+  uploadId: 577104

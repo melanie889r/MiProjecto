@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e2e5814a93be40d69db049dd90f98bbd
+timeCreated: 1573847747
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/DebugLogProperties.cs
+  uploadId: 577104

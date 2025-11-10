@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e2011eda79e341499aa75da52e3fa5ca
+timeCreated: 1560781165
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/SetGameFlagFloat.cs
+  uploadId: 577104

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba57ed00142cb314a94e726931492f3d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoBossCar.json
+  uploadId: 577104

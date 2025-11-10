@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4ba2db9c869744a89f261ec3551dd0d5
+timeCreated: 1577750211
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/SpriteShaders/FadeToBlack.shader
+  uploadId: 577104

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f6664fc5eab318468d451488d88342f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Tilesets/demoPortraits.json
+  uploadId: 577104

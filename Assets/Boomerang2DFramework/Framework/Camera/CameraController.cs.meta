@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 404aebf18a22b3f4a87a225601ae3d59
+timeCreated: 1491628332
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Camera/CameraController.cs
+  uploadId: 577104

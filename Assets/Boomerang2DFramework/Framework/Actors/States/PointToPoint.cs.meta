@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a817fbf2989948cebbba70a6d359eb83
+timeCreated: 1530243329
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/States/PointToPoint.cs
+  uploadId: 577104

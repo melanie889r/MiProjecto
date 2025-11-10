@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fa8080827ddc4040988880202568e039
+timeCreated: 1560779538
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/DisableActorEventProperties.cs
+  uploadId: 577104

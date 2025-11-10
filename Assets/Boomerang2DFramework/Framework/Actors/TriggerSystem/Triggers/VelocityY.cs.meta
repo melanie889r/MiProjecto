@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 97152053bf3047a8b48dc29d5de6224a
+timeCreated: 1531517682
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/VelocityY.cs
+  uploadId: 577104

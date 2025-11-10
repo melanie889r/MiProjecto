@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7f28e8e913bb54b448ec46acabc9e8f6
+timeCreated: 1506330712
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/EditorHelpers/SuperForms.cs
+  uploadId: 577104

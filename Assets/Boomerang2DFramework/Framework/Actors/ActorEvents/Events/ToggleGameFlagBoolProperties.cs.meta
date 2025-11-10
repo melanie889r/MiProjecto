@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b30dd6830b5347f6951bf5939608bbb8
+timeCreated: 1576462203
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/ToggleGameFlagBoolProperties.cs
+  uploadId: 577104

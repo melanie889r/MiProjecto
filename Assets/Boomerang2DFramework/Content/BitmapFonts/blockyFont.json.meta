@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bba1e99e7d5e6b842bcc22c9a8debfdb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/BitmapFonts/blockyFont.json
+  uploadId: 577104

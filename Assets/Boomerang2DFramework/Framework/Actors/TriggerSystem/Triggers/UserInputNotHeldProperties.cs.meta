@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1404117b88ee4d72a283c80735f87d1d
+timeCreated: 1531517681
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/UserInputNotHeldProperties.cs
+  uploadId: 577104

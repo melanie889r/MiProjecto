@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb0689eb22434c94899d0d5afceaf8aa
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoBreakableBlock.json
+  uploadId: 577104

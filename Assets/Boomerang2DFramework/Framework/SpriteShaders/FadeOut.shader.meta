@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 850917965d3e4284b0f4d767e793b15e
+timeCreated: 1577064689
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/SpriteShaders/FadeOut.shader
+  uploadId: 577104

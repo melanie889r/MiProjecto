@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f0453069dd1987b428c82bec923be4f6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/SpriteShaders/Flashing.shader
+  uploadId: 577104

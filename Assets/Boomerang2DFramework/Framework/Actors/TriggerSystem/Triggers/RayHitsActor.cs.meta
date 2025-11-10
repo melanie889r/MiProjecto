@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 40598d24895c4490b21a4e4fb0692c8e
+timeCreated: 1542059307
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/RayHitsActor.cs
+  uploadId: 577104

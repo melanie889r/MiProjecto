@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fded4c217d1d7ff499140778450ccd7a
+timeCreated: 1491737955
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/elbow_edge.prefab
+  uploadId: 577104

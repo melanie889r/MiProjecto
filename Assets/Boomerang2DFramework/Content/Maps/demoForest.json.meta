@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4303909662f364a42ba72f87b08452ad
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Maps/demoForest.json
+  uploadId: 577104

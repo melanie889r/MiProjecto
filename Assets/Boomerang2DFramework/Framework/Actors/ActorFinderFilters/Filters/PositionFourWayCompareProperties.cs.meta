@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a99b30266cb84abfac2222a5cbcb9479
+timeCreated: 1537998954
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorFinderFilters/Filters/PositionFourWayCompareProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6192bcdee38042e29d89ca2926de1dad
+timeCreated: 1531517681
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/DistanceToSolidValue.cs
+  uploadId: 577104

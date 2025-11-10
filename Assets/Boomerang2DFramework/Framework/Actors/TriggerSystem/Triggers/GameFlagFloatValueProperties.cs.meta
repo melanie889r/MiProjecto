@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e707b9b75e684fd39ee3454cb5ed1149
+timeCreated: 1576635419
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/GameFlagFloatValueProperties.cs
+  uploadId: 577104

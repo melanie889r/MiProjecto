@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d272fe58e7444f8588950acbf71acc3d
+timeCreated: 1531505961
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/LoadLevelProperties.cs
+  uploadId: 577104

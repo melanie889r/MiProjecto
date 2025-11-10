@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5b6a98b96a284a0aab7b920f82cb075a
+timeCreated: 1541707737
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/StatBoolValue.cs
+  uploadId: 577104

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dcc8f0679ee82f24fa8b300b89745086
+timeCreated: 1506705544
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Editor/B2DGUI.guiskin
+  uploadId: 577104

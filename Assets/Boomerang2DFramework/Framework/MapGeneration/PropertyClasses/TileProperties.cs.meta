@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: abb4d4e0059b489999b047ecb429d1f6
+timeCreated: 1507443235
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/PropertyClasses/TileProperties.cs
+  uploadId: 577104

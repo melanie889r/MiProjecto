@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a4627470ca006d242a2ecadd2ce4a37f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/UiManagement/InteractionEvents/HudObjectInteractionEvent.cs
+  uploadId: 577104

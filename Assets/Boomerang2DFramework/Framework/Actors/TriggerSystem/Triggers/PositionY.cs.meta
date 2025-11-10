@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 83fc49b68ce54924ab0d43abf7b47163
+timeCreated: 1531517682
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/PositionY.cs
+  uploadId: 577104

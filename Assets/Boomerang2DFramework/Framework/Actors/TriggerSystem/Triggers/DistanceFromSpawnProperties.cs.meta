@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: da179c6de6a14ec2bc46eae6eee44637
+timeCreated: 1607982520
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/DistanceFromSpawnProperties.cs
+  uploadId: 577104

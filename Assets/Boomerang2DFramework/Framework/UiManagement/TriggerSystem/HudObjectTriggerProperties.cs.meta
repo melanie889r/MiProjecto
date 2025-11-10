@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 75e916d0b9c6fa9418a3fc00d10622ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/UiManagement/TriggerSystem/HudObjectTriggerProperties.cs
+  uploadId: 577104

@@ -1,0 +1,37 @@
+{
+    "Name": "demoBombWeapon",
+    "MeleeStrikes": [
+        {
+            "StrikeTypeClass": "Boomerang2DFramework.Framework.Actors.Weapons.MeleeStrikeTypes.PolygonStrike, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "StrikeTypePropertiesClass": "Boomerang2DFramework.Framework.Actors.Weapons.MeleeStrikeTypes.PolygonStrikeProperties, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "StartTime": 0.0,
+            "Actions": [
+                {
+                    "Duration": 0.5,
+                    "EaseMode": "Linear",
+                    "StartStateProperties": "{\"Enabled\":true,\"Points\":[{\"x\":0.0,\"y\":0.0},{\"x\":0.5,\"y\":0.0},{\"x\":0.5,\"y\":0.5},{\"x\":0.0,\"y\":0.5}]}",
+                    "EndStateProperties": "{\"Enabled\":true,\"Points\":[{\"x\":0.0,\"y\":0.0},{\"x\":1.0,\"y\":0.0},{\"x\":1.0,\"y\":1.0},{\"x\":0.0,\"y\":1.0}]}"
+                }
+            ]
+        }
+    ],
+    "EditorBoundingDimensions": {
+        "x": 1.0,
+        "y": 1.0
+    },
+    "EditorDrawScale": 100,
+    "EditorGuideLineColor": {
+        "r": 0.8,
+        "g": 0.0,
+        "b": 0.8,
+        "a": 0.5
+    },
+    "EditorWeaponLineColor": {
+        "r": 0.0,
+        "g": 0.8,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "EditorCrossLength": 15.0,
+    "EditorShowBounding": true
+}

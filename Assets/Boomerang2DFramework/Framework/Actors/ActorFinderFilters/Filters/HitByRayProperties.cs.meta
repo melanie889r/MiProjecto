@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6b7fcaca0b054a99aa91739f077aa2b9
+timeCreated: 1527058777
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorFinderFilters/Filters/HitByRayProperties.cs
+  uploadId: 577104

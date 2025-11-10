@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 45813766247d4a2da58a5fbf03fb6ebd
+timeCreated: 1533707469
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/DistanceFromScreenEdge.cs
+  uploadId: 577104

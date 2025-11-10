@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0a37ee9400e342daa5c117c7eff8e2cd
+timeCreated: 1577693305
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/SetMapLayerShader.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3b1b65dafd40430c861c7fc83bb3a1f5
+timeCreated: 1531517682
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/DoesntOverlapColliderWithFlag.cs
+  uploadId: 577104

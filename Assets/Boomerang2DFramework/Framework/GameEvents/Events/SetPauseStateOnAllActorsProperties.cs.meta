@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 44a576934e0a4057858c9b06ee179518
+timeCreated: 1563564273
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/SetPauseStateOnAllActorsProperties.cs
+  uploadId: 577104

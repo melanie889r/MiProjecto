@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 05723dd387814919b40051697d3539ca
+timeCreated: 1542150097
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Camera/States/BoxCamera.cs
+  uploadId: 577104

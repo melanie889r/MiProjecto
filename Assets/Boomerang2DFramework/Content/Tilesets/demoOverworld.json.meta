@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3579b99431d6d704285fae67456e339e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Tilesets/demoOverworld.json
+  uploadId: 577104

@@ -1,0 +1,103 @@
+{
+    "Name": "demoSuperJumpItem",
+    "IsPlayer": false,
+    "SpriteWidth": 16.0,
+    "SpriteHeight": 16.0,
+    "ObeysChunking": true,
+    "States": [
+        {
+            "Name": "idle",
+            "Class": "Boomerang2DFramework.Framework.Actors.States.Idle, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "PropertiesClass": "Boomerang2DFramework.Framework.Actors.States.IdleProperties, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Properties": "{\"CanBeGrounded\":true,\"CollidesWithGeometry\":true,\"CollidesWithActors\":false,\"OverlapsGeometry\":false,\"OverlapsOtherActors\":true,\"OverlapsWeapons\":false}",
+            "TransitionTriggers": [],
+            "RandomTransitionTriggers": [],
+            "ModificationTriggers": [],
+            "WeaponTriggers": [],
+            "Animations": [
+                {
+                    "Name": "idle",
+                    "BoundToGlobalTimeManager": false,
+                    "IndefinitelyLoops": true,
+                    "FixedLoopCount": 0,
+                    "FinalFrameAfterLoops": 0,
+                    "StartOnExistingSpriteFrame": false,
+                    "BoundToWeaponDuration": false,
+                    "WeaponBoundTo": "",
+                    "AnimationFrames": [
+                        {
+                            "SpriteFrame": 0,
+                            "Duration": 0.25,
+                            "FlipHorizontal": false,
+                            "FlipVertical": false,
+                            "Rotate": false,
+                            "BoundingBoxProperties": [
+                                {
+                                    "Enabled": true,
+                                    "Size": {
+                                        "x": 12.0,
+                                        "y": 12.0
+                                    },
+                                    "Offset": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "IsTrigger": true,
+                                    "Name": "pickup"
+                                }
+                            ],
+                            "SoundEffectProperties": [],
+                            "ParticleEffectProperties": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Weapons": [],
+    "BoundingBoxes": [
+        {
+            "Enabled": true,
+            "Size": {
+                "x": 12.0,
+                "y": 12.0
+            },
+            "Offset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "IsTrigger": true,
+            "Name": "pickup"
+        }
+    ],
+    "StatsFloats": [],
+    "StatsStrings": [],
+    "StatsBools": [],
+    "InteractionEvents": [
+        {
+            "Name": "SuperJumpUpgrade",
+            "InteractionEventTriggers": [
+                {
+                    "TriggerClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Triggers.OnOverlapWithOtherActor, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "TriggerProperties": "{\"ActorName\":\"demoPlayer\",\"TriggerOnEntry\":true,\"TriggerOnExit\":false,\"TriggerWhileOverlapping\":false,\"BoundingBoxName\":\"pickup\",\"OtherActorBoundingBoxName\":\"\"}"
+                }
+            ],
+            "InteractionEventActions": [
+                {
+                    "ActionClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Actions.TriggerGameEvents, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "ActionProperties": "{\"GameEvents\":[{\"GameEventClass\":\"ToggleGameFlagBool\",\"GameEventProperties\":\"{\\\"FlagName\\\":\\\"canWallClimb\\\",\\\"FlagValue\\\":true}\"},{\"GameEventClass\":\"ToggleGameFlagBool\",\"GameEventProperties\":\"{\\\"FlagName\\\":\\\"canWallGrab\\\",\\\"FlagValue\\\":true}\"},{\"GameEventClass\":\"ToggleGameFlagBool\",\"GameEventProperties\":\"{\\\"FlagName\\\":\\\"canDoubleJump\\\",\\\"FlagValue\\\":true}\"}]}"
+                },
+                {
+                    "ActionClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Actions.ModifyOtherActorStat, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "ActionProperties": "{\"ActorName\":\"demoPlayer\",\"StatName\":\"JumpStrength\",\"NewValue\":{\"StartValue\":12.0,\"Entries\":[],\"ClampMin\":false,\"ClampMinValue\":0.0,\"ClampMax\":false,\"ClampMaxValue\":0.0}}"
+                },
+                {
+                    "ActionClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Actions.DestroySelf, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "ActionProperties": "{}"
+                }
+            ]
+        }
+    ],
+    "ChildrenActors": [],
+    "ParticleEffects": []
+}

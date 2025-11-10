@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2cd4914d9decc4b45bb05f971ccdf985
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoNpcDialogRegion.json
+  uploadId: 577104

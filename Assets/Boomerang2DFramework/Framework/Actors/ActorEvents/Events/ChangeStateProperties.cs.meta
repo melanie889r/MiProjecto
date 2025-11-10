@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f5f94d59836943798d1da3a022cabde1
+timeCreated: 1560779538
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/ChangeStateProperties.cs
+  uploadId: 577104

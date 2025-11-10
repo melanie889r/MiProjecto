@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 135a065726a945ffa8c2e22ee0d39a72
+timeCreated: 1574382861
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/HudObjectDisplayedProperties.cs
+  uploadId: 577104

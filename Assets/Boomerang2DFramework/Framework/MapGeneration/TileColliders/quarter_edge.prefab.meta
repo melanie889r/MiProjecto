@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b4ea67bb34053a42822f5bfac96727b
+timeCreated: 1491738170
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/quarter_edge.prefab
+  uploadId: 577104

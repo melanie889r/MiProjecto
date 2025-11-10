@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f865787136ea4ca79dd9b0925c1e7aa0
+timeCreated: 1545419887
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/PropertyClasses/MapRegionActorEvent.cs
+  uploadId: 577104

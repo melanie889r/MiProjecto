@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 12f0a809c1604a1e9fd57a53f9a50ca2
+timeCreated: 1560779538
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/ChangeVelocityProperties.cs
+  uploadId: 577104

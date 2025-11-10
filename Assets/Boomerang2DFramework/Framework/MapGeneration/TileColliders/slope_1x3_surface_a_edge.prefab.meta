@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7aa68e2451a8a1842af934747ca5d475
+timeCreated: 1491743320
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/slope_1x3_surface_a_edge.prefab
+  uploadId: 577104

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93f4128e5a9833a49967f480a053eb99
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/slope_1x1_perfect.prefab
+  uploadId: 577104

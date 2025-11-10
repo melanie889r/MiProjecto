@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dadc087003e6e004daa2c962e46e164a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoItemDoubleJump.json
+  uploadId: 577104

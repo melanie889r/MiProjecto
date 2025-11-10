@@ -1,0 +1,95 @@
+{
+    "Name": "demoForestDoor",
+    "IsPlayer": false,
+    "SpriteWidth": 16.0,
+    "SpriteHeight": 16.0,
+    "ObeysChunking": true,
+    "States": [
+        {
+            "Name": "idle",
+            "Class": "Boomerang2DFramework.Framework.Actors.States.Idle, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "PropertiesClass": "Boomerang2DFramework.Framework.Actors.States.IdleProperties, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Properties": "{\"CanBeGrounded\":true,\"CollidesWithGeometry\":true,\"CollidesWithActors\":false,\"OverlapsGeometry\":false,\"OverlapsOtherActors\":true,\"OverlapsWeapons\":false}",
+            "TransitionTriggers": [],
+            "RandomTransitionTriggers": [],
+            "ModificationTriggers": [],
+            "WeaponTriggers": [],
+            "Animations": [
+                {
+                    "Name": "idle",
+                    "BoundToGlobalTimeManager": false,
+                    "IndefinitelyLoops": true,
+                    "FixedLoopCount": 0,
+                    "FinalFrameAfterLoops": 0,
+                    "StartOnExistingSpriteFrame": false,
+                    "BoundToWeaponDuration": false,
+                    "WeaponBoundTo": "",
+                    "AnimationFrames": [
+                        {
+                            "SpriteFrame": 0,
+                            "Duration": 1.0,
+                            "FlipHorizontal": false,
+                            "FlipVertical": false,
+                            "Rotate": false,
+                            "BoundingBoxProperties": [
+                                {
+                                    "Enabled": true,
+                                    "Size": {
+                                        "x": 16.0,
+                                        "y": 16.0
+                                    },
+                                    "Offset": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "IsTrigger": true,
+                                    "Name": "door"
+                                }
+                            ],
+                            "SoundEffectProperties": [],
+                            "ParticleEffectProperties": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Weapons": [],
+    "BoundingBoxes": [
+        {
+            "Enabled": true,
+            "Size": {
+                "x": 16.0,
+                "y": 16.0
+            },
+            "Offset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "IsTrigger": true,
+            "Name": "door"
+        }
+    ],
+    "StatsFloats": [],
+    "StatsStrings": [],
+    "StatsBools": [],
+    "InteractionEvents": [
+        {
+            "Name": "GoToForest",
+            "InteractionEventTriggers": [
+                {
+                    "TriggerClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Triggers.OnOverlapWithOtherActor, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "TriggerProperties": "{\"ActorName\":\"demoPlayer\",\"TriggerOnEntry\":true,\"TriggerOnExit\":false,\"TriggerWhileOverlapping\":false,\"BoundingBoxName\":\"door\",\"OtherActorBoundingBoxName\":\"\"}"
+                }
+            ],
+            "InteractionEventActions": [
+                {
+                    "ActionClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Actions.TriggerGameEvents, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "ActionProperties": "{\"GameEvents\":[{\"GameEventClass\":\"LoadLevel\",\"GameEventProperties\":\"{\\\"LevelName\\\":\\\"demoForest\\\"}\"}]}"
+                }
+            ]
+        }
+    ],
+    "ChildrenActors": [],
+    "ParticleEffects": []
+}

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 374b4a9f15274a1cb726b193b2d68dca
+timeCreated: 1543735972
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/EditorObjects/TilesetEditorBrush.cs
+  uploadId: 577104

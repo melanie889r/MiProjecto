@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dc3b9a97dd664e4cba5e0d7e1daff2d2
+timeCreated: 1518282686
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/AudioManagement/LoopingAudioEffect.cs
+  uploadId: 577104

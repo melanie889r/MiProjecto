@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 07d0b631f54042b68002a3d519302e55
+timeCreated: 1527051156
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorFinderFilters/Filters/DistanceFromOrigin.cs
+  uploadId: 577104

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0675a416a88d1b8439fc6ad6bfa1f5d5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Maps/demoOverworld.json
+  uploadId: 577104

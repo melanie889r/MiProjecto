@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f89e21509fc6d141b6022265243b800
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/UiManagement/UiElements/UiElementProperties.cs
+  uploadId: 577104

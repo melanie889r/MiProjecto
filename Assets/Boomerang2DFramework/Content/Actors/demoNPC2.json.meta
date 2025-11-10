@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac4d2d79fa630d04bbd4d95eafb7bb89
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoNPC2.json
+  uploadId: 577104

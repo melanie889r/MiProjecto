@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e645021f7d88417e97e84faa9b7bfb68
+timeCreated: 1560873634
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/UiManagement/TriggerSystem/Triggers/UserInputDown.cs
+  uploadId: 577104

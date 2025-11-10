@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a1a28ef0e0e7460e95ab2000d184580c
+timeCreated: 1538246505
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/OverlapsWeaponCollider.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5e8f46f9ef154b5ca2124a79f4561744
+timeCreated: 1560779538
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/ChangeFacingDirectionProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 032b65a12813484790c99d0aab7ecfb7
+timeCreated: 1563564273
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/TogglePausedStateOnAllActors.cs
+  uploadId: 577104

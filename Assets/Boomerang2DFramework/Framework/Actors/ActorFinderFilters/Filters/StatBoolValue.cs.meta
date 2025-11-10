@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 98f2d415ccc446cca40847bdd6f0ba32
+timeCreated: 1541707600
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorFinderFilters/Filters/StatBoolValue.cs
+  uploadId: 577104

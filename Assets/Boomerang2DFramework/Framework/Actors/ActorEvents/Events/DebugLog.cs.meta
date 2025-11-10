@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5a4c75cb49584b02b547440bf2d4b971
+timeCreated: 1563440454
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/DebugLog.cs
+  uploadId: 577104

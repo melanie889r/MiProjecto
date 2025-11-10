@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3c2d6f9c91f04fdeb0195e69c711bee1
+timeCreated: 1560787416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/SetGameFlagString.cs
+  uploadId: 577104

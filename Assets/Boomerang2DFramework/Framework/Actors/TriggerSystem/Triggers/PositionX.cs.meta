@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: afaaea9a16a94aaabf941aef3c194c80
+timeCreated: 1531517682
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/PositionX.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b6169c67e0354b32a9a4a3bcfa142448
+timeCreated: 1560779538
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/SetSpriteShaderProperties.cs
+  uploadId: 577104

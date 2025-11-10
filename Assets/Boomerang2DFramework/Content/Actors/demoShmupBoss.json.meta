@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db3ae33f46b36a44f9c1857f7f456633
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoShmupBoss.json
+  uploadId: 577104

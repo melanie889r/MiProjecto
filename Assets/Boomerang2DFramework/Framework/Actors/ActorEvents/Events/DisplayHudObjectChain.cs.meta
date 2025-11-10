@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: bc211862a85f4312b26c82b64498645b
+timeCreated: 1563479198
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/DisplayHudObjectChain.cs
+  uploadId: 577104

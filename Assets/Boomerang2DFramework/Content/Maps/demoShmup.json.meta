@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f867586c70b366e49a2d2d53968cb89f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Maps/demoShmup.json
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 979ee55cd1054d0a9871dc6764de9ef0
+timeCreated: 1531517682
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/WeaponIsActiveProperties.cs
+  uploadId: 577104

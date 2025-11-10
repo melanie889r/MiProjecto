@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 887fd79cc0022614c813b3172b78c814
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoEnemyCar.json
+  uploadId: 577104

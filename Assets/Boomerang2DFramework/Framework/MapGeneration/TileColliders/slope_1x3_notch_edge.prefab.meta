@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 244918afa561bd3469676d1d6639f052
+timeCreated: 1491743044
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/slope_1x3_notch_edge.prefab
+  uploadId: 577104

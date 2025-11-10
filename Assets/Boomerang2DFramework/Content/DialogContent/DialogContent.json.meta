@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 474394771556e0844bdc811afd595114
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/DialogContent/DialogContent.json
+  uploadId: 577104

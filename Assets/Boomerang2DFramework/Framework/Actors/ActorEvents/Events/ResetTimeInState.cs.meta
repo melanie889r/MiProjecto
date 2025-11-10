@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fd5fcd46c3404e998b89e36559077207
+timeCreated: 1607979125
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/ResetTimeInState.cs
+  uploadId: 577104

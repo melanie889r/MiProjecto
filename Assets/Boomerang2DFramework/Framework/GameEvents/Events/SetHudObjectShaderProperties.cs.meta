@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1c65d3510e404044884076e404e80b2d
+timeCreated: 1577794606
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GameEvents/Events/SetHudObjectShaderProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4171c508a5cd47f1992a468d7e3cf144
+timeCreated: 1573616035
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/SetCameraTargetProperties.cs
+  uploadId: 577104

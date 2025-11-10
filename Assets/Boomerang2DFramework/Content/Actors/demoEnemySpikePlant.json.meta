@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a09159b8349d706409a887bf0eb15619
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoEnemySpikePlant.json
+  uploadId: 577104

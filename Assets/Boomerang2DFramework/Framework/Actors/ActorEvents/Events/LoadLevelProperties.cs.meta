@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e113b0fb84cd42aaa03af87b088a2b89
+timeCreated: 1560787416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/LoadLevelProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4eec07761b1a449b98e87a2e2d145674
+timeCreated: 1560787416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/BackgroundMusicPlay.cs
+  uploadId: 577104

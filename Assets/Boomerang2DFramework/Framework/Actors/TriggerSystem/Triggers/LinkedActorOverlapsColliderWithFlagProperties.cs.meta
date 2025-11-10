@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d7c907ca034c4288ac2b269fe3a48a2b
+timeCreated: 1531517682
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/LinkedActorOverlapsColliderWithFlagProperties.cs
+  uploadId: 577104

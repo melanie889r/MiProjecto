@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e48d1c56aec14d48aef4a6283b0e08e7
+timeCreated: 1560779538
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorEvents/Events/SetStatFloat.cs
+  uploadId: 577104

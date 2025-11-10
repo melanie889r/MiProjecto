@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fc5faa5abbb24724943f3bffac14a0bc
+timeCreated: 1507764412
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorStateProperties/TriggerProperties/TransitionTriggerProperties.cs
+  uploadId: 577104

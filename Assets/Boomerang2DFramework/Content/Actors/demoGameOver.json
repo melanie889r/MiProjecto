@@ -1,0 +1,95 @@
+{
+    "Name": "demoGameOver",
+    "IsPlayer": false,
+    "SpriteWidth": 16.0,
+    "SpriteHeight": 16.0,
+    "ObeysChunking": false,
+    "States": [
+        {
+            "Name": "idle",
+            "Class": "Boomerang2DFramework.Framework.Actors.States.Idle, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "PropertiesClass": "Boomerang2DFramework.Framework.Actors.States.IdleProperties, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Properties": "{\"CanBeGrounded\":false,\"CollidesWithGeometry\":false,\"CollidesWithActors\":false,\"OverlapsGeometry\":false,\"OverlapsOtherActors\":true,\"OverlapsWeapons\":false}",
+            "TransitionTriggers": [],
+            "RandomTransitionTriggers": [],
+            "ModificationTriggers": [],
+            "WeaponTriggers": [],
+            "Animations": [
+                {
+                    "Name": "idle",
+                    "BoundToGlobalTimeManager": false,
+                    "IndefinitelyLoops": true,
+                    "FixedLoopCount": 0,
+                    "FinalFrameAfterLoops": 0,
+                    "StartOnExistingSpriteFrame": false,
+                    "BoundToWeaponDuration": false,
+                    "WeaponBoundTo": "",
+                    "AnimationFrames": [
+                        {
+                            "SpriteFrame": 0,
+                            "Duration": 1.0,
+                            "FlipHorizontal": false,
+                            "FlipVertical": false,
+                            "Rotate": false,
+                            "BoundingBoxProperties": [
+                                {
+                                    "Enabled": true,
+                                    "Size": {
+                                        "x": 16.0,
+                                        "y": 16.0
+                                    },
+                                    "Offset": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "IsTrigger": true,
+                                    "Name": "gameover"
+                                }
+                            ],
+                            "SoundEffectProperties": [],
+                            "ParticleEffectProperties": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Weapons": [],
+    "BoundingBoxes": [
+        {
+            "Enabled": true,
+            "Size": {
+                "x": 16.0,
+                "y": 16.0
+            },
+            "Offset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "IsTrigger": true,
+            "Name": "gameover"
+        }
+    ],
+    "StatsFloats": [],
+    "StatsStrings": [],
+    "StatsBools": [],
+    "InteractionEvents": [
+        {
+            "Name": "GameOver",
+            "InteractionEventTriggers": [
+                {
+                    "TriggerClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Triggers.OnOverlapWithOtherActor, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "TriggerProperties": "{\"ActorName\":\"demoPlayer\",\"TriggerOnEntry\":true,\"TriggerOnExit\":false,\"TriggerWhileOverlapping\":false,\"BoundingBoxName\":\"gameover\",\"OtherActorBoundingBoxName\":\"\"}"
+                }
+            ],
+            "InteractionEventActions": [
+                {
+                    "ActionClass": "Boomerang2DFramework.Framework.Actors.InteractionEvents.Actions.TriggerGameEvents, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "ActionProperties": "{\"GameEvents\":[{\"GameEventClass\":\"LoadLevel\",\"GameEventProperties\":\"{\\\"LevelName\\\":\\\"demoTown\\\"}\"}]}"
+                }
+            ]
+        }
+    ],
+    "ChildrenActors": [],
+    "ParticleEffects": []
+}

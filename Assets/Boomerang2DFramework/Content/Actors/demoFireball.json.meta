@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b12870394d8c3c4aabc05048dbf6e52
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Actors/demoFireball.json
+  uploadId: 577104

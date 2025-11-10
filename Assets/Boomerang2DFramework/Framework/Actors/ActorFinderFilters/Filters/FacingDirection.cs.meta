@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 75b7f790bbe64ee88d214740eaaf0243
+timeCreated: 1531545449
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorFinderFilters/Filters/FacingDirection.cs
+  uploadId: 577104

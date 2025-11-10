@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 631e9d40033c4713b8c8323f1e2f0c86
+timeCreated: 1545424627
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/MapRegionBehavior.cs
+  uploadId: 577104

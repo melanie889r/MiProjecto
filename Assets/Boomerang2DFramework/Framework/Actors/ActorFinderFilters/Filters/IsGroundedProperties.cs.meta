@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7bfc83f4ed8b499a980684f86ce47e9a
+timeCreated: 1532215837
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/ActorFinderFilters/Filters/IsGroundedProperties.cs
+  uploadId: 577104

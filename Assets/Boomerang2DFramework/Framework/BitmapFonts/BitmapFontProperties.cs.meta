@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 75a4c686071cc114399be1cf79a929e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/BitmapFonts/BitmapFontProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f2f21202bfd24d6184b9c89a0bacef11
+timeCreated: 1531517682
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/StatFloatValueProperties.cs
+  uploadId: 577104

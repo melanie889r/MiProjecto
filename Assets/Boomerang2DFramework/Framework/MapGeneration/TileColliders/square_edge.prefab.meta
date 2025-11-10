@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfa0992111082ff4f8ab45aa655f7ac7
+timeCreated: 1491743997
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/MapGeneration/TileColliders/square_edge.prefab
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cc53be6ee43e49b0b45f450c48281c3c
+timeCreated: 1531517619
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/IsGroundedProperties.cs
+  uploadId: 577104

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 438a023df6404bd0a7729dfbc1d6e026
+timeCreated: 1557717631
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/GlobalTimeManagement/TimeManagerIntervalAction.cs
+  uploadId: 577104

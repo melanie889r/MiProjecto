@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f5d5b930d88543cf938dd805d4ea22a4
+timeCreated: 1534170633
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Framework/Actors/TriggerSystem/Triggers/IsOnScreenProperties.cs
+  uploadId: 577104

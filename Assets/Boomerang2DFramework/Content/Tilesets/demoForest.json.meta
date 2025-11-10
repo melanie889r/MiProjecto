@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2fe172f3c4b9014b9e4e1ecd611e48d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164608
+  packageName: Boomerang 2D Framework
+  packageVersion: 1.48
+  assetPath: Assets/Boomerang2DFramework/Content/Tilesets/demoForest.json
+  uploadId: 577104

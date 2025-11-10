@@ -1,0 +1,122 @@
+{
+    "Name": "demoHouse2",
+    "Width": 12,
+    "Height": 8,
+    "ChunkDimensions": {
+        "x": 10,
+        "y": 10
+    },
+    "Layers": [
+        {
+            "Name": "Background",
+            "Tileset": "demoTownTileset",
+            "Shader": "Unlit/Transparent",
+            "UseColliders": true,
+            "TileRows": [
+                "20,20,20,20,20,20,20,20,20,20,20,20",
+                "20,165,165,165,165,165,165,165,165,165,165,20",
+                "20,165,165,165,165,165,165,165,165,165,165,20",
+                "20,165,165,165,165,165,165,165,165,165,165,20",
+                "20,165,165,165,165,165,165,165,165,165,165,20",
+                "20,165,165,165,165,165,165,165,165,165,165,20",
+                "20,165,165,165,165,165,185,165,165,165,165,20",
+                "20,20,20,20,20,20,20,20,20,20,20,20"
+            ],
+            "Actors": [
+                {
+                    "Actor": "demoHouseExitDoor",
+                    "MapId": "",
+                    "Position": {
+                        "x": 96,
+                        "y": 112
+                    },
+                    "ActorInstanceProperties": {
+                        "FacingDirection": 3,
+                        "LinkedActors": []
+                    },
+                    "ActorDefaultStatsFloats": [],
+                    "ActorDefaultStatsBools": [],
+                    "ActorDefaultStatsStrings": []
+                },
+                {
+                    "Actor": "demoHousePlayerSpawner",
+                    "MapId": "",
+                    "Position": {
+                        "x": 96,
+                        "y": 96
+                    },
+                    "ActorInstanceProperties": {
+                        "FacingDirection": 3,
+                        "LinkedActors": []
+                    },
+                    "ActorDefaultStatsFloats": [],
+                    "ActorDefaultStatsBools": [],
+                    "ActorDefaultStatsStrings": []
+                },
+                {
+                    "Actor": "demoNPC2",
+                    "MapId": "",
+                    "Position": {
+                        "x": 64,
+                        "y": 64
+                    },
+                    "ActorInstanceProperties": {
+                        "FacingDirection": 3,
+                        "LinkedActors": []
+                    },
+                    "ActorDefaultStatsFloats": [],
+                    "ActorDefaultStatsBools": [],
+                    "ActorDefaultStatsStrings": []
+                }
+            ],
+            "Prefabs": [],
+            "EditorIsVisible": true,
+            "EditorIsLocked": false,
+            "TileEditorObjects": [],
+            "MapLayerType": 0,
+            "DepthLayerStampId": 0,
+            "DepthLayerStampDimensions": {
+                "x": 5,
+                "y": 5
+            },
+            "DepthLayerOrigin": 0,
+            "DepthLayerOriginCorner": 2,
+            "DepthLayerRepeatX": true,
+            "DepthLayerRepeatY": true,
+            "DepthLayerScrollMode": 0,
+            "DepthLayerScrollSpeed": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "Views": [
+        {
+            "Position": {
+                "x": 0,
+                "y": 0
+            },
+            "Dimensions": {
+                "x": 192,
+                "y": 128
+            },
+            "CameraBehaviorClass": "Boomerang2DFramework.Framework.Camera.States.BoxCamera, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "CameraBehaviorPropertiesClass": "Boomerang2DFramework.Framework.Camera.States.BoxCameraProperties, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "CameraBehaviorProperties": "{\"HorizontalLerpSpeed\":0.0,\"VerticalLerpSpeed\":0.0,\"RightPushEdge\":0.0,\"LeftPushEdge\":0.0,\"TopPushEdge\":0.0,\"BottomPushEdge\":0.0,\"SticksToBottom\":false,\"StickinessAmount\":0.0}",
+            "CameraTransitionMode": "",
+            "PlaysBackgroundMusic": true,
+            "BackgroundMusic": "MysticalWorldBattle(by 3xBlast)",
+            "CrossFadeBackgroundMusic": true,
+            "CrossFadeDuration": 0.25
+        }
+    ],
+    "Regions": [],
+    "GameEventBuilders": [
+        {
+            "StartTime": 0.0,
+            "GameEventClass": "Boomerang2DFramework.Framework.GameEvents.Events.DisplayHudObject, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "GameEventPropertiesClass": "Boomerang2DFramework.Framework.GameEvents.Events.DisplayHudObjectProperties, B2DFramework, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "GameEventProperties": "{\"HudObject\":\"demoPlayerHud\",\"OptionalContentId\":\"\"}"
+        }
+    ]
+}
